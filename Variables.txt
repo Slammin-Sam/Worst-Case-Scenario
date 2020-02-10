@@ -1,0 +1,2 @@
+Variables needed for Worst Case Scenario Project:
+Karma-Determines endings based on past decisions.
